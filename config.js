@@ -41,25 +41,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['08999625005']owner number
-global.ownername = "aldi"
-global.ytname = "IG: aldii_260" //ur yt chanel name
+global.owner = ['628999625005']owner number
+global.ownername = "Aldi"
+global.ytname = "YT: Aldi Bot" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawal" //ur location
 
 //bot bombdy
-global.botname = "aldi bot" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "Aldi Bot" //ur bot name
+global.websitex = "https://instagram.com/aldii_260" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Aldi Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Aldi bot"
+global.packname = "Aldi Bot Stickers "
+global.author = "Dream Aldi bot"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['08999625005'] //ur owner tag
-global.ownernummenu = ['08999625005'] //ur owner number in menu and all
-global.watermark = "Aldi Bot." //ur watermark
+global.ownertag = ['628999625005'] //ur owner tag
+global.ownernummenu = ['628999625005'] //ur owner number in menu and all
+global.watermark = "Aldi Bot" //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/CVxGqm1TBnRAyqkH4eYGWr"
+global.linkz1 = "https://chat.whatsapp.com/FtZC1O0Q0Yb0XXOG0Ivclf"
 global.linkz2 = "https://chat.whatsapp.com/FtZC1O0Q0Yb0XXOG0Ivclf"
 
 //Bot theme media
