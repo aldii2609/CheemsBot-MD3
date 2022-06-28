@@ -42,8 +42,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['6289506335111'] //ur owner number
-global.ownername = "Daffa-Ofc"
-global.ytname = "YT: Daffa-Ofc" //ur yt chanel name
+global.ownername = "DaffBotz-Ofc"
+global.ytname = "YT: DaffBotz-Ofc" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -54,7 +54,7 @@ global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "DaffBotz-Md "
 global.author = "Daffa-Ofc"
 global.themeemoji = "🐶"
-global.reactmoji = "🙏🏻"
+global.reactmoji = "😘"
 global.ownertag = ['6289506335111'] //ur owner tag
 global.ownernummenu = ['6289506335111'] //ur owner number in menu and all
 global.watermark = "DaffBotz-Md" //ur watermark
