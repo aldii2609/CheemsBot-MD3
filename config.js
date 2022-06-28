@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['628999625005'] //ur owner number
-global.ownername = "Aldi"
-global.ytname = "YT: AldiBot" //ur yt chanel name
+global.owner = ['6289506335111'] //ur owner number
+global.ownername = "Daffa-Ofc"
+global.ytname = "YT: Daffa-Ofc" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "Aldi Bot" //ur bot name
-global.websitex = "https://instagram.com/aldii_260" //ur website
+global.botname = "DaffBotz-Md" //ur bot name
+global.websitex = "https://instagram.com/daffpesstore_" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Aldi Bot "
-global.author = "Aldi"
+global.packname = "DaffBotz-Md "
+global.author = "Daffa-Ofc"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['628999625005'] //ur owner tag
-global.ownernummenu = ['628999625005'] //ur owner number in menu and all
-global.watermark = "Aldi Bot" //ur watermark
+global.ownertag = ['6289506335111'] //ur owner tag
+global.ownernummenu = ['6289506335111'] //ur owner number in menu and all
+global.watermark = "DaffBotz-Md" //ur watermark
 global.botscript = "cie nyari sc"
-global.linkz1 = "https://chat.whatsapp.com/FtZC1O0Q0Yb0XXOG0Ivclf"
-global.linkz2 = "https://chat.whatsapp.com/FtZC1O0Q0Yb0XXOG0Ivclf"
+global.linkz1 = "https://chat.whatsapp.com/EWs9NutTNMwIibcpiX2V2b"
+global.linkz2 = "https://chat.whatsapp.com/EWs9NutTNMwIibcpiX2V2b"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
