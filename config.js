@@ -44,7 +44,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['628999625005']owner number
 global.ownername = "Aldi"
 global.ytname = "YT: Aldi Bot" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "GitHub: alldii2609" //ur github or insta name
 global.location = "India, Mizoram, Aizawal" //ur location
 
 //bot bombdy
@@ -58,7 +58,7 @@ global.reactmoji = "😘"
 global.ownertag = ['628999625005'] //ur owner tag
 global.ownernummenu = ['628999625005'] //ur owner number in menu and all
 global.watermark = "Aldi Bot" //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
+global.botscript = "https://github.com/"
 global.linkz1 = "https://chat.whatsapp.com/FtZC1O0Q0Yb0XXOG0Ivclf"
 global.linkz2 = "https://chat.whatsapp.com/FtZC1O0Q0Yb0XXOG0Ivclf"
 
